@@ -1,0 +1,23 @@
+#imghei{
+    height: 100px;
+    width: 100px;
+}
+.card{
+  width: 370px;
+  margin: 10px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+#card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align: center;
+    margin:8px 0px;
+}
